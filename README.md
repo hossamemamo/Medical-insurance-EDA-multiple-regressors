@@ -8,6 +8,6 @@ accuracy report
 | model        | score          |
 | ------------- |:-------------:|
 | Linear Regression      | 0.7999876970680433 |
-| Random Forest Regressor      | 0.872      |
+| Random Forest Regressor      | 0.859      |
 | Polynomial Regression | 0.881259570334522   |
 | Gradient Boosting Regressor |0.881|
